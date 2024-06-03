@@ -1,0 +1,4 @@
+icalendar==5.0.12
+python-dotenv==1.0.1
+pytz==2024.1
+selenium==4.21.0
