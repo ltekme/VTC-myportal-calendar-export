@@ -97,7 +97,11 @@ To get new data delete the existing `calender_events.json` and execute the scrip
 
 Once Event data is fetched. The scrip will generate an iCal file which can be imported to calender apps such as google calendar.
 
-# Disclaimer
+## importing to google calendar
+
+I am still working on createing a cloud function to synce the data between the 2 calendar. So far the most relicble solution is to create a new calender and import the ics to the new calender to prevent messing up your existing one.
+
+## Disclaimer
 
 I am not responsable for anything done to your account. Please exercise accordding to your own knoledge. It is not recommented to sotre credentials as plain text. Please read through the scrip before executing to make sure it has not been modified to send any data to anyware other then myportal.
 
