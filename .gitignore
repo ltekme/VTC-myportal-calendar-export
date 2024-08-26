@@ -1,5 +1,1 @@
-**/*.json
-**/*.ics
-**/.config
-**/.ignore_*
-**/__pycache__
+data
